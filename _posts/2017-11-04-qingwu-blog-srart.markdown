@@ -2,8 +2,9 @@
 layout: post
 title:  "清无博客正式启动!"
 date:   2017-11-04 15:13:35 +0800
-categories: jekyll qingwu_blog
+categories: jekyll QingwuBlog
 tags: 清无博客 QingwuBlog
+author: Qingwu
 ---
 清无博客正式启动！
 

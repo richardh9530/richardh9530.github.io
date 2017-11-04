@@ -2,8 +2,9 @@
 layout: post
 title:  "QingwuBlog start!"
 date:   2017-11-04 15:13:35 +0800
-categories: jekyll qingwu_blog
-tags: 清无时空 QingwuBlog
+categories: jekyll QingwuBlog
+tags: 清无博客 QingwuBlog
+author: Qingwu
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
