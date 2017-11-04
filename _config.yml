@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: QingwuBlog
-brief-intro: Perfectionist
+title: 清无博客
+brief-intro: QingwuBlog, Home of 清无居士
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://njuhalley.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: hanqingwu
 dribbble_username:
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: 清无博客，part of 清无时空！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
