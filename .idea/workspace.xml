@@ -2,11 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fa0ae9a-f026-4738-9096-a1f54e1bb112" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2095-05-15-qingwu-blog-link.markdown" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-04-15-baidu-ife-1.md" afterPath="$PROJECT_DIR$/_posts/2015-04-15-baidu-ife-1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-04-22-baidu-ife-2-javascript.md" afterPath="$PROJECT_DIR$/_posts/2015-04-22-baidu-ife-2-javascript.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/0000-00-00-qingwu-blog-links.markdown" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-02-10-welcome-to-jekyll.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-02-12-create-my-blog-with-jekyll.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-03-21-teach-girlfriend-html-css.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-03-26-sublimeLinter.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-04-06-arrays-similar.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-04-12-Syncing-a-fork.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-04-15-baidu-ife-1.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-04-22-baidu-ife-2-javascript.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-05-18-front-end-tools.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-05-20-scope.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-06-01-lenovo-front-end-interview.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-06-11-JavaScript-function.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-06-12-JavaScript-this.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-06-14-JavaScript-closure.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-06-15-JavaScript-Object-Oriented.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-06-17-web-app.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-06-18-weinre.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-07-09-JavaScript-Net.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-07-24-low-IE-click-empty-block-bug.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-12-31-History-API.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-03-12-jekyll-theme-version-2.0.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-05-06-regular-expression-group.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-07-JavaScript-good-parts-note1.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-08-JavaScript-good-parts-note2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-10-JavaScript-good-parts-note3.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-14-how-to-use-babel.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-07-07-git-clone-not-master-branch.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-10-16-shuffle-algorithm.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-11-22-js-create-file-and-download.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-11-25-how-to-write-a-count-down.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-11-04-qingwu-blog-srart-en.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2095-05-15-qingwu-blog-link.markdown" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
@@ -31,35 +61,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/demo.html" afterPath="$PROJECT_DIR$/_layouts/demo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-02-10-welcome-to-jekyll.markdown" afterPath="$PROJECT_DIR$/_posts/2015-02-10-welcome-to-jekyll.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-02-12-create-my-blog-with-jekyll.md" afterPath="$PROJECT_DIR$/_posts/2015-02-12-create-my-blog-with-jekyll.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-03-21-teach-girlfriend-html-css.md" afterPath="$PROJECT_DIR$/_posts/2015-03-21-teach-girlfriend-html-css.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-03-26-sublimeLinter.md" afterPath="$PROJECT_DIR$/_posts/2015-03-26-sublimeLinter.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-04-06-arrays-similar.md" afterPath="$PROJECT_DIR$/_posts/2015-04-06-arrays-similar.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-04-12-Syncing-a-fork.md" afterPath="$PROJECT_DIR$/_posts/2015-04-12-Syncing-a-fork.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-05-18-front-end-tools.md" afterPath="$PROJECT_DIR$/_posts/2015-05-18-front-end-tools.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-05-20-scope.md" afterPath="$PROJECT_DIR$/_posts/2015-05-20-scope.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-01-lenovo-front-end-interview.md" afterPath="$PROJECT_DIR$/_posts/2015-06-01-lenovo-front-end-interview.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-11-JavaScript-function.md" afterPath="$PROJECT_DIR$/_posts/2015-06-11-JavaScript-function.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-12-JavaScript-this.md" afterPath="$PROJECT_DIR$/_posts/2015-06-12-JavaScript-this.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-14-JavaScript-closure.md" afterPath="$PROJECT_DIR$/_posts/2015-06-14-JavaScript-closure.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-15-JavaScript-Object-Oriented.md" afterPath="$PROJECT_DIR$/_posts/2015-06-15-JavaScript-Object-Oriented.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-17-web-app.md" afterPath="$PROJECT_DIR$/_posts/2015-06-17-web-app.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-18-weinre.md" afterPath="$PROJECT_DIR$/_posts/2015-06-18-weinre.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-07-09-JavaScript-Net.md" afterPath="$PROJECT_DIR$/_posts/2015-07-09-JavaScript-Net.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-07-24-low-IE-click-empty-block-bug.md" afterPath="$PROJECT_DIR$/_posts/2015-07-24-low-IE-click-empty-block-bug.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-12-31-History-API.md" afterPath="$PROJECT_DIR$/_posts/2015-12-31-History-API.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-03-12-jekyll-theme-version-2.0.md" afterPath="$PROJECT_DIR$/_posts/2016-03-12-jekyll-theme-version-2.0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-05-06-regular-expression-group.md" afterPath="$PROJECT_DIR$/_posts/2016-05-06-regular-expression-group.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-06-07-JavaScript-good-parts-note1.md" afterPath="$PROJECT_DIR$/_posts/2016-06-07-JavaScript-good-parts-note1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-06-08-JavaScript-good-parts-note2.md" afterPath="$PROJECT_DIR$/_posts/2016-06-08-JavaScript-good-parts-note2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-06-10-JavaScript-good-parts-note3.md" afterPath="$PROJECT_DIR$/_posts/2016-06-10-JavaScript-good-parts-note3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-06-14-how-to-use-babel.md" afterPath="$PROJECT_DIR$/_posts/2016-06-14-how-to-use-babel.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-07-git-clone-not-master-branch.md" afterPath="$PROJECT_DIR$/_posts/2016-07-07-git-clone-not-master-branch.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-10-16-shuffle-algorithm.md" afterPath="$PROJECT_DIR$/_posts/2016-10-16-shuffle-algorithm.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-22-js-create-file-and-download.md" afterPath="$PROJECT_DIR$/_posts/2016-11-22-js-create-file-and-download.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-25-how-to-write-a-count-down.md" afterPath="$PROJECT_DIR$/_posts/2016-11-25-how-to-write-a-count-down.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-04-qingwu-blog-srart-en.markdown" afterPath="$PROJECT_DIR$/_posts/2017-11-04-qingwu-blog-srart-en.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-04-qingwu-blog-srart.markdown" afterPath="$PROJECT_DIR$/_posts/2017-11-04-qingwu-blog-srart.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/_backToTop.scss" afterPath="$PROJECT_DIR$/_sass/_backToTop.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/_demo.scss" afterPath="$PROJECT_DIR$/_sass/_demo.scss" />
@@ -101,7 +102,18 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="0000-00-00-qingwu-blog-links.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/0000-00-00-qingwu-blog-links.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -129,6 +141,8 @@
         <option value="$PROJECT_DIR$/_posts/2017-11-04-qingwu-blog-srart.markdown" />
         <option value="$PROJECT_DIR$/_posts/2095-05-15-qingwu-blog-link.markdown" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/_posts/0000-00-00-qingwu-blog-links.markdown" />
       </list>
     </option>
   </component>
@@ -139,10 +153,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2293" />
+    <option name="x" value="-11" />
     <option name="y" value="-11" />
-    <option name="width" value="2326" />
-    <option name="height" value="1318" />
+    <option name="width" value="1942" />
+    <option name="height" value="1102" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -160,7 +174,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -173,8 +186,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="njuhalley.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="njuhalley.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,6 +308,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -414,27 +448,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2293" y="-11" width="2326" height="1318" extended-state="6" />
-    <editor active="false" />
+    <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26341683" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26781857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13774598" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13774598" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,18 +486,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-04-welcome-to-jekyll.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-04-welcome-to-jekyll.markdown" />
     <entry file="file://$PROJECT_DIR$/favicon.ico">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -481,7 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -489,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2263">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -497,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -505,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2343">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -513,7 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -521,7 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -529,7 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="159" column="6" lean-forward="false" selection-start-line="159" selection-start-column="6" selection-end-line="159" selection-end-column="96" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -537,7 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="226" column="0" lean-forward="true" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -545,7 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -553,31 +570,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE" />
     <entry file="file://$PROJECT_DIR$/page/3demo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,7 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-432">
           <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -593,7 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,7 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,7 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1584">
           <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -617,7 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8448">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,7 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -633,7 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -641,7 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -649,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,6 +669,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/0000-00-00-qingwu-blog-links.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
           <folding />
         </state>
       </provider>
