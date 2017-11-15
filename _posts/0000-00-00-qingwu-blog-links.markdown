@@ -8,16 +8,9 @@ author: Qingwu
 ---
 清无链接【持续更新中】！
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('HanQingwu')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+QingwuBlog List:
+ [清无时空-CNBLOGS]
+ [请无时空-ChinaUnix]
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[清无时空-CNBLOGS]: http://www.cnblogs.com/halley/
+[请无时空-ChinaUnix]: http://blog.chinaunix.net/uid/31404425.html
