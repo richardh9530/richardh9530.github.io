@@ -2,6 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fa0ae9a-f026-4738-9096-a1f54e1bb112" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-02-10-welcome-to-jekyll.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-02-12-create-my-blog-with-jekyll.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-03-21-teach-girlfriend-html-css.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-03-26-sublimeLinter.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-04-06-arrays-similar.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-04-12-Syncing-a-fork.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-04-15-baidu-ife-1.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-04-22-baidu-ife-2-javascript.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-05-18-front-end-tools.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-05-20-scope.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-06-01-lenovo-front-end-interview.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-06-11-JavaScript-function.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-06-12-JavaScript-this.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-06-14-JavaScript-closure.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-06-15-JavaScript-Object-Oriented.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-06-17-web-app.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-06-18-weinre.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-07-09-JavaScript-Net.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-07-24-low-IE-click-empty-block-bug.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2015-12-31-History-API.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2016-03-12-jekyll-theme-version-2.0.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2016-05-06-regular-expression-group.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2016-06-07-JavaScript-good-parts-note1.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2016-06-08-JavaScript-good-parts-note2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2016-06-10-JavaScript-good-parts-note3.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2016-06-14-how-to-use-babel.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2016-07-07-git-clone-not-master-branch.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2016-10-16-shuffle-algorithm.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2016-11-22-js-create-file-and-download.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2016-11-25-how-to-write-a-count-down.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/outdated/2017-11-04-qingwu-blog-srart-en.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/start/2017-11-04-qingwu-blog-srart.markdown" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
@@ -29,38 +61,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2095-05-15-qingwu-blog-links.markdown" afterPath="$PROJECT_DIR$/_posts/2095-05-15-qingwu-blog-links.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-02-10-welcome-to-jekyll.markdown" afterPath="$PROJECT_DIR$/_posts/outdated/2015-02-10-welcome-to-jekyll.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-02-12-create-my-blog-with-jekyll.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-02-12-create-my-blog-with-jekyll.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-03-21-teach-girlfriend-html-css.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-03-21-teach-girlfriend-html-css.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-03-26-sublimeLinter.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-03-26-sublimeLinter.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-04-06-arrays-similar.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-04-06-arrays-similar.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-04-12-Syncing-a-fork.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-04-12-Syncing-a-fork.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-04-15-baidu-ife-1.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-04-15-baidu-ife-1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-04-22-baidu-ife-2-javascript.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-04-22-baidu-ife-2-javascript.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-05-18-front-end-tools.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-05-18-front-end-tools.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-05-20-scope.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-05-20-scope.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-06-01-lenovo-front-end-interview.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-06-01-lenovo-front-end-interview.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-06-11-JavaScript-function.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-06-11-JavaScript-function.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-06-12-JavaScript-this.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-06-12-JavaScript-this.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-06-14-JavaScript-closure.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-06-14-JavaScript-closure.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-06-15-JavaScript-Object-Oriented.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-06-15-JavaScript-Object-Oriented.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-06-17-web-app.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-06-17-web-app.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-06-18-weinre.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-06-18-weinre.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-07-09-JavaScript-Net.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-07-09-JavaScript-Net.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-07-24-low-IE-click-empty-block-bug.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-07-24-low-IE-click-empty-block-bug.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-12-31-History-API.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-12-31-History-API.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2016-03-12-jekyll-theme-version-2.0.md" afterPath="$PROJECT_DIR$/_posts/outdated/2016-03-12-jekyll-theme-version-2.0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2016-05-06-regular-expression-group.md" afterPath="$PROJECT_DIR$/_posts/outdated/2016-05-06-regular-expression-group.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2016-06-07-JavaScript-good-parts-note1.md" afterPath="$PROJECT_DIR$/_posts/outdated/2016-06-07-JavaScript-good-parts-note1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2016-06-08-JavaScript-good-parts-note2.md" afterPath="$PROJECT_DIR$/_posts/outdated/2016-06-08-JavaScript-good-parts-note2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2016-06-10-JavaScript-good-parts-note3.md" afterPath="$PROJECT_DIR$/_posts/outdated/2016-06-10-JavaScript-good-parts-note3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2016-06-14-how-to-use-babel.md" afterPath="$PROJECT_DIR$/_posts/outdated/2016-06-14-how-to-use-babel.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2016-07-07-git-clone-not-master-branch.md" afterPath="$PROJECT_DIR$/_posts/outdated/2016-07-07-git-clone-not-master-branch.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2016-10-16-shuffle-algorithm.md" afterPath="$PROJECT_DIR$/_posts/outdated/2016-10-16-shuffle-algorithm.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2016-11-22-js-create-file-and-download.md" afterPath="$PROJECT_DIR$/_posts/outdated/2016-11-22-js-create-file-and-download.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2016-11-25-how-to-write-a-count-down.md" afterPath="$PROJECT_DIR$/_posts/outdated/2016-11-25-how-to-write-a-count-down.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2017-11-04-qingwu-blog-srart-en.markdown" afterPath="$PROJECT_DIR$/_posts/outdated/2017-11-04-qingwu-blog-srart-en.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/start/2017-11-04-qingwu-blog-srart.markdown" afterPath="$PROJECT_DIR$/_posts/start/2017-11-04-qingwu-blog-srart.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/_backToTop.scss" afterPath="$PROJECT_DIR$/_sass/_backToTop.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/_demo.scss" afterPath="$PROJECT_DIR$/_sass/_demo.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/_footer.scss" afterPath="$PROJECT_DIR$/_sass/_footer.scss" />
@@ -176,38 +176,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="njuhalley.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="njuhalley.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="njuhalley.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="njuhalley.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="start" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -222,6 +190,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="V:\qwprojects\njuhalley.github.io\_site\0 backup\_posts" />
       <recent name="V:\qwprojects\njuhalley.github.io\_posts\init" />
       <recent name="V:\qwprojects\njuhalley.github.io\_posts" />
     </key>
@@ -663,7 +632,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/start/2017-11-04-qingwu-blog-srart.markdown">
+    <entry file="file://$PROJECT_DIR$/_site/0 backup/_posts/start/2017-11-04-qingwu-blog-srart.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
