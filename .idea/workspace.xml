@@ -29,6 +29,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-04-qingwu-blog-srart.markdown" afterPath="$PROJECT_DIR$/_posts/2017-11-04-qingwu-blog-srart.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2095-05-15-qingwu-blog-links.markdown" afterPath="$PROJECT_DIR$/_posts/2095-05-15-qingwu-blog-links.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-02-10-welcome-to-jekyll.markdown" afterPath="$PROJECT_DIR$/_posts/outdated/2015-02-10-welcome-to-jekyll.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-02-12-create-my-blog-with-jekyll.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-02-12-create-my-blog-with-jekyll.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/outdated/2015-03-21-teach-girlfriend-html-css.md" afterPath="$PROJECT_DIR$/_posts/outdated/2015-03-21-teach-girlfriend-html-css.md" />
@@ -87,7 +88,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/3collections.md" afterPath="$PROJECT_DIR$/page/3collections.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/3demo.html" afterPath="$PROJECT_DIR$/page/3demo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/4about.md" afterPath="$PROJECT_DIR$/page/4about.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2095-05-15-qingwu-blog-link.markdown" afterPath="$PROJECT_DIR$/_posts/2095-05-15-qingwu-blog-links.markdown" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -105,8 +105,8 @@
       <file leaf-file-name="2095-05-15-qingwu-blog-links.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2095-05-15-qingwu-blog-links.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state relative-caret-position="96">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -693,8 +693,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2095-05-15-qingwu-blog-links.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        <state relative-caret-position="96">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
